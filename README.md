@@ -20,14 +20,6 @@ Welcome to my developer portfolio built with **Next.js**, **Tailwind CSS**, and 
 
 ---
 
-## 📁 Project Structure
-
-├── components # Reusable UI components like Navbar, Footer, ProjectCard
-├── pages # Routes like /about, /projects, /contact
-├── public # Images, icons, and static assets
-├── styles # Global CSS and Tailwind config
-└── utils # Helper functions (if any)
-
 ## 🧑‍💻 Contributing
 
 Feel free to fork this repository and customize it for your own portfolio. Contributions via pull requests or issues are welcome.
